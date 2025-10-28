@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:22.04
 MAINTAINER Luis Vargas "agsolano-2023a@corhuila.edu.co"
 
 # Cambia repositorios a HTTPS y luego actualiza
