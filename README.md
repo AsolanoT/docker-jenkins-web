@@ -1,2 +1,3 @@
 # docker-jenkins-web
-laboratorio jenkins y nginx
+
+laboratorio 02 jenkins y nginx
