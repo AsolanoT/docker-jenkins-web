@@ -1,5 +1,5 @@
 FROM ubuntu:22.04
-MAINTAINER Luis Vargas "agsolano-2023a@corhuila.edu.co"
+MAINTAINER AsolanoT "agsolano-2023a@corhuila.edu.co"
 
 # Instala certificados y corrige mirrors a HTTPS
 RUN apt-get update && apt-get install -y ca-certificates && update-ca-certificates
